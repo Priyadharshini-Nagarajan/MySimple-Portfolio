@@ -1,2 +1,2 @@
 "# MySimple-Portfolio" 
-[your link](Portfolio/index.html)
+[your link](http://priyaportfolio.lovestoblog.com/)
